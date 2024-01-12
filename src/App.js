@@ -7,7 +7,9 @@ function App(props) {
   return (
     <div className='header'>
       <Header></Header>
-      <Shop></Shop>
+      <Shop> 
+        
+      </Shop>
 
     </div>
 
