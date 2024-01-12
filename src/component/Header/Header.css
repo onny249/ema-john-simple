@@ -1,0 +1,44 @@
+.header img{
+    height: 80px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search{
+    background-color: #313131;
+    line-height: 60px;
+    text-align: center;
+}
+.search input{
+    width: 60%;
+    max-width: 100%;
+    outline: none;
+    padding: 7px;
+    border: none;
+    font-size: 15px;
+}
+.header nav{
+    background-color: black;
+    line-height: 50px;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    padding-left: 5rem;
+}
+nav a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 20px;
+    padding: 5px;
+    
+}
+nav a:hover{
+    background-color: #ffffff;
+    color: #000;
+}
+
+.cart-icon{
+    color: #fff;
+    font-size: x-large;
+    padding-left: 1rem;
+}
